@@ -34,13 +34,13 @@ a basic image viewer written by html,js,css
 
 just go to the folder and open index.html to see the result
 
-![jpg](./imageViewer/demo.jpg)
+![jpg](./imageViewer/demo.JPG)
 
 ##todoList
 a basic todolist written by html,js,css
 just go to the folder and open index.html to see the result
 
-![jpg](./todoList/demo.jpg)
+![jpg](./todoList/demo.JPG)
 
 ##React.js 
 require node.js
