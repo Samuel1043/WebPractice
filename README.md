@@ -36,16 +36,16 @@ just go to the folder and open index.html to see the result
 
 ![jpg](./imageViewer/demo.JPG)
 
-##todoList
+## todoList
 a basic todolist written by html,js,css
 just go to the folder and open index.html to see the result
 
 ![jpg](./todoList/demo.JPG)
 
-##React.js 
+## React.js 
 require node.js
 
-###installation
+### installation
 ```
 1. NodeJS install: http://www.runoob.com/nodejs/nodejs-install-setup.html
 2. npm install -g create-react-app
